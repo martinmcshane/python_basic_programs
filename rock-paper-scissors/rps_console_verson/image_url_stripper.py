@@ -10,5 +10,5 @@ print(newString[::-1])
 word = 'dfsdfs/dfsdfsdf/sd/s/dfsdfsdfsdf/fdsdfsdf.png'
 print(word[word.rfind("/")::])
 
-cunt = (word.rfind("/"))
-print(word[cunt:len(word)], "fuck")
+wordywordy = (word.rfind("/"))
+print(word[wordywordy:len(word)], "sausage")
